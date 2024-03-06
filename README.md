@@ -16,6 +16,9 @@ Program : IBM Advance AI
 
 Mentor : Agistira Lamunde
 
+Pre-requirement
+- OpenAI API Key
+
 Tech Stack:
 - Python
 
